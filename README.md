@@ -33,4 +33,4 @@ Again, please keep in mind that this is at a very early stage and there are a lo
 
 *Depending on the feedback I get, you can expect a lot to change over the next weeks!*
 
-`If there are any other questions/ concerns/ ideas, feel free to message me :)`
+`If there are any other questions/ concerns/ ideas, feel free to message me or open up an issue :)`
