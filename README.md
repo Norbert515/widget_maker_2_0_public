@@ -14,7 +14,7 @@ The widget maker is currently available as a Web and Windows App.
 
 The web version can be found under [https://www.widgetmaker.dev](https://www.widgetmaker.dev/) - the password is widgetMaker2019. I'd kindly ask you not to share the link around just yet as there is quite a bit to be done before the public can use it.
 
-The windows download can be found under [https://drive.google.com/file/d/1jpcFXp222bGLU0YeFRAw6s_TGnnT6Dve/view?usp=sharing](https://drive.google.com/file/d/1jpcFXp222bGLU0YeFRAw6s_TGnnT6Dve/view?usp=sharing)
+The windows download can be found under [https://drive.google.com/file/d/1jpcFXp222bGLU0YeFRAw6s_TGnnT6Dve/view?usp=sharing](https://drive.google.com/file/d/1jpcFXp222bGLU0YeFRAw6s_TGnnT6Dve/view?usp=sharing) (next version will be hostes as a release here in the repository)
 
 If there are any problems with it, feel free to report them to me and use the web version instead!
 
